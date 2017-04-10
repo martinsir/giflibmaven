@@ -1,0 +1,7 @@
+com\giflibmaven\giflib\data\CategoryRepository.class
+com\giflibmaven\giflib\model\Category.class
+com\giflibmaven\giflib\data\GifRepository.class
+com\giflibmaven\giflib\model\Gif.class
+com\giflibmaven\giflib\AppConfig.class
+com\giflibmaven\giflib\controller\GifController.class
+com\giflibmaven\giflib\controller\CategoryController.class
