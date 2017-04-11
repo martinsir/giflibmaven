@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="466f99b7-c35f-41db-8151-2d0c2a46feeb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/giflibmaven/giflib/AppConfig.class" afterPath="$PROJECT_DIR$/target/classes/com/giflibmaven/giflib/AppConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/giflibmaven/giflib/data/GifRepository.class" afterPath="$PROJECT_DIR$/target/classes/com/giflibmaven/giflib/data/GifRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/giflibmaven/giflib/model/Gif.class" afterPath="$PROJECT_DIR$/target/classes/com/giflibmaven/giflib/model/Gif.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT.war.original" afterPath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT.war.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT/WEB-INF/classes/com/giflibmaven/giflib/AppConfig.class" afterPath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT/WEB-INF/classes/com/giflibmaven/giflib/AppConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT/WEB-INF/classes/com/giflibmaven/giflib/data/GifRepository.class" afterPath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT/WEB-INF/classes/com/giflibmaven/giflib/data/GifRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT/WEB-INF/classes/com/giflibmaven/giflib/model/Gif.class" afterPath="$PROJECT_DIR$/target/giflibmaven-1.0-SNAPSHOT/WEB-INF/classes/com/giflibmaven/giflib/model/Gif.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_compiler_ecj_4_5_1.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/giflibmaven_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/giflibmaven_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/giflibmaven.iml" afterPath="$PROJECT_DIR$/giflibmaven.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/AppConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/AppConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,21 +22,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="78" column="16" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+            <state relative-caret-position="423">
+              <caret line="67" column="16" lean-forward="false" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppConfig.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/AppConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="false" />
                 <element signature="e#797#798#0" expanded="false" />
@@ -203,12 +195,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/data/CategoryRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/controller/GifController.java" />
         <option value="$PROJECT_DIR$/src/main/java/AppConfig.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/controller/CategoryController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/data/GifRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/model/Gif.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/AppConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -1166,7 +1158,7 @@
       <updated>1491859681582</updated>
       <workItem from="1491859684295" duration="6477000" />
       <workItem from="1491866707693" duration="1194000" />
-      <workItem from="1491910630435" duration="1199000" />
+      <workItem from="1491910630435" duration="1806000" />
     </task>
     <task id="LOCAL-00001" summary="A working version of war file installed &#10;on AWS at: &quot;http://52.29.29.117:8080/&quot;">
       <created>1491867708414</created>
@@ -1175,11 +1167,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491867708414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A war file that runs with java -jar 'FileName'&#10;reedit the AppConfig class.">
+      <created>1491915253810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1491915253810</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8870000" />
+    <option name="totallyTimeSpent" value="9477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1229,7 +1228,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A working version of war file installed &#10;on AWS at: &quot;http://52.29.29.117:8080/&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="A working version of war file installed &#10;on AWS at: &quot;http://52.29.29.117:8080/&quot;" />
+    <MESSAGE value="A war file that runs with java -jar 'FileName'&#10;reedit the AppConfig class." />
+    <option name="LAST_COMMIT_MESSAGE" value="A war file that runs with java -jar 'FileName'&#10;reedit the AppConfig class." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1457,14 +1457,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data/GifController.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="16" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/controller/GifController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1564,12 +1556,20 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/giflibmaven/giflib/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
             <element signature="e#797#798#0" expanded="false" />
             <element signature="e#857#858#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="67" column="16" lean-forward="false" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

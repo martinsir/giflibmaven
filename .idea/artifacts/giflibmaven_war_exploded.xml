@@ -7,6 +7,10 @@
           <element id="module-output" name="giflibmaven" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.5.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.11" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.11" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.11" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:1.5.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:1.5.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.2.RELEASE" />
@@ -43,12 +47,6 @@
           <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:2.4.9" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.5.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.11" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.11" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:8.5.11" />
-          <element id="library" level="project" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.5.1" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.11" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jdbc:8.5.11" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:8.5.11" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jsp-api:8.5.11" />
